@@ -1,7 +1,8 @@
 const CONFIG = {
     introTitle: 'Cậu gì ơiii!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
+    introDesc: `Cậu biết điều gì ko 
+    Tình cảm của tớ dành cho cậu bùng cháy 
+    giống như Natri lao vào nước vậy đó.
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
