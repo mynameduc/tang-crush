@@ -3,8 +3,8 @@ const CONFIG = {
     introDesc: `Cậu biết điều gì ko 
     Tình cảm của tớ dành cho cậu bùng cháy 
     giống như Natri lao vào nước vậy đó.
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Chất cực độc CFC cũng ko thể nào 
+    làm hao mòn tình cảm của tớ dành cho câu đâuuuu <3 <3`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
